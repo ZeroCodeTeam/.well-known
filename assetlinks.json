@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.zerocode.justexpenses",
+    "sha256_cert_fingerprints":
+    ["7E:78:C5:E9:E9:2E:37:4A:B7:81:07:8C:40:A6:BC:43:40:63:FE:32:B2:F5:E5:AE:17:F6:54:65:30:AB:61:87"]
+  }
+}]
